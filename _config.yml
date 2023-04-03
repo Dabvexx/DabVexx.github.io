@@ -4,9 +4,9 @@ markdown: kramdown
 remote-theme: thedevslot/WhatATheme
 
 # URL of the Site
-url: 'https://DabVexx.github.io'
+url: 'https://dabvexx.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: "/DabVexx.github.io"
+baseurl: "/dabvexx.github.io/"
 
 # Title of the Site
 title: Alex Woods
