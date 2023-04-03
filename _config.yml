@@ -1,7 +1,7 @@
 # WhatATheme
 markdown: kramdown
 
-remote-theme: WhatATheme
+remote-theme: thedevslot/WhatATheme
 
 # URL of the Site
 url: 'DabVexx.github.io'
