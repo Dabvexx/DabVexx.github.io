@@ -5,9 +5,6 @@
 
 html,
 body {
-    //background-color: #181a1b;
-    //color: #e2dfdb;
-    background-color: white;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth !important;
     transition: all 0.25s ease;
@@ -23,7 +20,7 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-    background: #999999 !important;
+    background: white !important;
 }
 
 /* Handle */
