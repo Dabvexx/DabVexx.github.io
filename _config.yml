@@ -48,7 +48,7 @@ author-url: https://github.com/dabvexx
 # SASS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: main
 
 # Build settings
 plugins:
