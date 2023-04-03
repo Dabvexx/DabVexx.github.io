@@ -285,6 +285,7 @@ DEPENDENCIES
   github-pages
   jekyll-admin (= 0.9.0)
   jekyll-feed
+  jekyll-remote-theme
   rack
   tzinfo (~> 1.2)
   tzinfo-data
