@@ -1,6 +1,8 @@
 # WhatATheme
 markdown: kramdown
 
+remote-theme: WhatATheme
+
 # URL of the Site
 url: 'DabVexx.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
