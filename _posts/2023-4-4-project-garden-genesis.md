@@ -33,18 +33,20 @@ This project was the first project I've ever worked on as a team with a group co
 
 An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://openai.com/blog/chatgpt) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) Speech Synthesis AI did the dramatic reading.
 
----
+We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
 
-# Lessons Learned
-
-This project taught me about collaborating on a project with multiple team members. It was a bit hard to do since we had such a limited amount of time we couldnt construct a full plan that covers every edge case. We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
-
-## Here are a few photos of the development process:
+## Here are a few photos of this development process:
 <div aligh="center">
     <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title">
     <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1">
     <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2">
 </div>
+
+---
+
+# Lessons Learned
+
+This project taught me about collaborating on a project with multiple team members. It was a bit hard to do since we had such a limited amount of time we couldnt construct a full plan that covers every edge case. We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
 
 ---
 
