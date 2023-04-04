@@ -2,7 +2,7 @@
 title: "Project: \nGarden Genesis: The Art Of Cultivation"
 layout: post
 post-image: ../assets/images/GardenGenesisTitle.png
-description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation"
+description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation.\n\nProgrammers:\n- Alex Woods\n- Chino Beach\n- Caleb Brazeau\n\nArtists:\n- Grace Fowler"
 tags:
 - project
 - gaming
@@ -18,6 +18,9 @@ tags:
 #### If you would like some more information on the project:
 - <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
 - <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
+
+#### Programmers:
+- 
 
 ---
 
