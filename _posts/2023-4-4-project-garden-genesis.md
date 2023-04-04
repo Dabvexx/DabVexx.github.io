@@ -2,7 +2,7 @@
 title: "Project: \nGarden Genesis: The Art Of Cultivation"
 layout: post
 post-image: ../assets/images/GardenGenesisTitle.png
-description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation.\n\nProgrammers:\n- Alex Woods\n- Chino Beach\n- Caleb Brazeau\n\nArtists:\n- Grace Fowler"
+description: "In this post, I will be showing off a project that me, Chino Beach, Caleb Brazeau, Grace fowler, and Connor Courtoies did for Global Game Jam '23, Garden Genesis: The Art of Cultivation."
 tags:
 - project
 - gaming
@@ -15,12 +15,18 @@ tags:
 "Garden Genesis: The Art of Cultivation", or simply Garden Genesis as I shall refer to it for the rest of this blog, is the submission me and a few of my friends created for Global Game Jam '23. The theme for this game jam was "Roots", which could be interperated as many different things. A few projects I saw while playing a few of the game from the jam had the idea of family heritige, the creation of culture, and plants.
 <br>
 <br>
-#### If you would like some more information on the project:
+## If you would like some more information on the project:
 - <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
 - <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
 
-#### Programmers:
-- 
+### Screenshots:
+<div aligh="center">
+    <img src="../assets/images/GardenGenesisScreenshot1.png" alt="Screenshot1">
+    <img src="../assets/images/GardenGenesisScreenshot2.png" alt="Screenshot2">
+    <img src="../assets/images/GardenGenesisScreenshot3.png" alt="Screenshot3">
+    <img src="../assets/images/GardenGenesisScreenshot4.png" alt="Screenshot4">
+    <img src="../assets/images/GardenGenesisScreenshot5.png" alt="Screenshot5">
+</div>
 
 ---
 
