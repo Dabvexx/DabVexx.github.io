@@ -33,7 +33,7 @@ tags:
 
 
 ### Screenshots:
-<div aligh="center">
+<div align="center">
     <img src="../assets/images/GardenGenesisScreenShot1.png" alt="Screenshot1">
     <img src="../assets/images/GardenGenesisScreenShot2.png" alt="Screenshot2">
     <img src="../assets/images/GardenGenesisScreenShot3.png" alt="Screenshot3">
@@ -58,7 +58,7 @@ An interesting point about this game is the opening cutscene. The opening cutsce
 We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
 
 ## Here are a few photos of this development process:
-<div aligh="center">
+<div align="center">
     <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title">
     <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1">
     <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2">
