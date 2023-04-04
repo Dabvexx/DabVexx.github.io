@@ -1,5 +1,5 @@
 ---
-title: "Project: Garden Genesis: The Art Of Cultivation"
+title: "Project: \nGarden Genesis: The Art Of Cultivation"
 layout: post
 post-image: ../assets/images/GardenGenesisTitle.png
 description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation"
@@ -29,18 +29,25 @@ My immediate idea for this theme was a type of botony plant breeding sim in whic
 
 # Execution
 
-An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://chat.openai.com/chat) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) voice replicating AI did the dramatic reading.
+This project was the first project I've ever worked on as a team with a group collaborating through GitHub. 
+
+An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://openai.com/blog/chatgpt) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) Speech Synthesis AI did the dramatic reading.
 
 ---
 
 # Lessons Learned
 
+This project taught me about collaborating on a project with multiple team members. It was a bit hard to do since we had such a limited amount of time we couldnt construct a full plan that covers every edge case. We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
 
+## Here are a few photos of the development process:
+<div aligh="center">
+    <img src=../assets/images/GardenGenesisTitleWhiteboard.png alt="Whiteboard Title">
+</div>
 
 ---
 
 # Summery
 
-
+Overall, this was a fun and interesting project to do. 
 
 ---
