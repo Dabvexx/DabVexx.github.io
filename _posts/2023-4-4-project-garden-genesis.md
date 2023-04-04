@@ -19,17 +19,17 @@ tags:
 - <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
 - <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
 
-### Credits:
-#### Programmers:
-- Alex Woods (Me!)
-- Caleb Brazeau
-- Chino Beach
+## Credits:
+### - Programmers:
+-- Alex Woods (Me!)
+-- Caleb Brazeau
+-- Chino Beach
 
-#### 2D Artists:
-- Connor Courtoies
+### - 2D Artists:
+-- Connor Courtoies
 
-#### 3D Modeler:
-- Grace Fowler
+### - 3D Modeler:
+-- Grace Fowler
 
 
 ### Screenshots:
