@@ -9,5 +9,16 @@ tags:
 - gaming
 ---
 
-# Temp
+# Intrest in computing and programming
 
+---
+
+# Intrest in gaming
+
+---
+
+# Education
+
+---
+
+# Personal projects
