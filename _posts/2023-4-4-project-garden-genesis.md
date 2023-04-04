@@ -21,15 +21,15 @@ tags:
 
 ## Credits:
 ### - Programmers:
--- Alex Woods (Me!)
--- Caleb Brazeau
--- Chino Beach
+    - - Alex Woods (Me!)
+    - - Caleb Brazeau
+    - - Chino Beach
 
 ### - 2D Artists:
--- Connor Courtoies
+    - - Connor Courtoies
 
 ### - 3D Modeler:
--- Grace Fowler
+    - - Grace Fowler
 
 
 ### Screenshots:
