@@ -21,16 +21,6 @@ tags:
 
 ---
 
-# Devs
-
-- Alex Woods - Programmer
-- Caleb Brazeau - Programmer
-- Chino Beach - Programmer
-- Grace Fowler - 3D Modeler
-- Conor Courtoies - 2D Artist
-
----
-
 # Game Concept
 
 My immediate idea for this theme was a type of botony plant breeding sim in which you breed plants together, which will then combine attributes of the parent plants, such as color and flower shape, and produce an entirely new plant. 
