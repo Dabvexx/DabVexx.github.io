@@ -2,7 +2,7 @@
 - name: "Project: Garden Genesis"
   image: ../assets/images/GardenGenesisTitle.png
   link: https://dabvexx.github.io/blog/project-garden-genesis
-  description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation"
+  description: "Project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation"
 - name: Second Project
   link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
