@@ -41,7 +41,7 @@ This project taught me about collaborating on a project with multiple team membe
 
 ## Here are a few photos of the development process:
 <div aligh="center">
-    <img src=../assets/images/GardenGenesisTitleWhiteboard.png alt="Whiteboard Title">
+    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title">
 </div>
 
 ---
