@@ -21,8 +21,32 @@ tags:
 
 ---
 
+# Devs
+
+- Alex Woods - Programmer
+- Caleb Brazeau - Programmer
+- Chino Beach - Programmer
+- Grace Fowler - 3D Modeler
+- Conor Courtoies - 2D Artist
+
+---
+
+# Game Concept
+
 My immediate idea for this theme was a type of botony plant breeding sim in which you breed plants together, which will then combine attributes of the parent plants, such as color and flower shape, and produce an entirely new plant. 
 
 An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://chat.openai.com/chat) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) voice replicating AI did the dramatic reading.
+
+---
+
+# Execution
+
+
+
+---
+
+# Lessons Learned
+
+
 
 ---
