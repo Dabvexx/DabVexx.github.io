@@ -16,8 +16,8 @@ tags:
 <br>
 <br>
 #### If you would like some more information on the project:
-- [Click here](https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation) for a look at the repository.
-- [Click here](https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation) to play the game in your browser.
+- <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
+- <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
 
 ---
 
