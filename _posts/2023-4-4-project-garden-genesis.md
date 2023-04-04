@@ -1,5 +1,5 @@
 ---
-title: "Project: Garden Genesis"
+title: "Project: Garden Genesis: The Art Of Cultivation"
 layout: post
 post-image: ../assets/images/GardenGenesisTitle.png
 description: "In this post, I will be showing off a project that me and a couple of friends did for Global Game Jam '23, Garden Genesis: The Art of Cultivation"
@@ -23,19 +23,23 @@ tags:
 
 # Game Concept
 
-My immediate idea for this theme was a type of botony plant breeding sim in which you breed plants together, which will then combine attributes of the parent plants, such as color and flower shape, and produce an entirely new plant. 
-
-An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://chat.openai.com/chat) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) voice replicating AI did the dramatic reading.
+My immediate idea for this theme was a type of botony plant breeding sim in which you breed plants together, which will then combine attributes of the parent plants, such as color and flower shape, and produce an entirely new plant. During the development, Chino suggested adding a story about running your families old plant stand after leaving a boring office job. This creates two meanings for the theme root, the roots of a plant and going back to ones roots.
 
 ---
 
 # Execution
 
-
+An interesting point about this game is the opening cutscene. The opening cutscene story and voice over was entirely created by AI. [ChatGPT](https://chat.openai.com/chat) wrote the story based on a few prompts (It even generated the name itself from combining 2 of its responses). [ElevenLabs](https://beta.elevenlabs.io) voice replicating AI did the dramatic reading.
 
 ---
 
 # Lessons Learned
+
+
+
+---
+
+# Summery
 
 
 
