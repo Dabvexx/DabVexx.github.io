@@ -13,8 +13,8 @@ tags:
 # What is Garden Genesis: The Art of Cultivation?
 
 "Garden Genesis: The Art of Cultivation", or simply Garden Genesis as I shall refer to it for the rest of this blog, is the submission me and a few of my friends created for Global Game Jam '23. The theme for this game jam was "Roots", which could be interperated as many different things. A few projects I saw while playing a few of the game from the jam had the idea of family heritige, the creation of culture, and plants.
-
-
+<br>
+<br>
 #### If you would like some more information on the project:
 - [Click here](https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation) for a look at the repository.
 - [Click here](https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation) to play the game in your browser.
