@@ -55,7 +55,9 @@ My immediate idea for this theme was a type of Botony plant breeding sim in whic
 
 # Execution
 
-This was the first project I've ever worked on as a team with a group collaborating through GitHub. 
+This was the first project I've ever worked on as a team with a group collaborating through GitHub. We created a organization in order to do the project (you can see our other projects through the organization!). It was a little tough as the two artists had never touched GitHub before this point, and we spent atleast an hour guiding them through the process.
+
+As three programmers, we found conceptualizing the programming to be challenging. We eventually realized that the ideal approach was to create a theoretical system of plant objects that solely represent the data, without also handling game logic and rendering.
 
 An interesting point about this game is the opening cutscene. AI entirely created the opening cutscene story and voiceover. [ChatGPT](https://openai.com/blog/chatgpt) wrote the story based on a few prompts (It even generated the name itself by combining two of its responses). [ElevenLabs](https://beta.elevenlabs.io) Speech Synthesis AI did the dramatic reading.
 
@@ -81,6 +83,6 @@ This project taught me about collaborating on a project with multiple team membe
 
 # Summary
 
-Overall, this was a fun and exciting project to do. I got to have fun with my friends while creating an interesting portfolio piece. The story and voice acting being done entirely by AI show the power of AI technology from [OpenAI](https://openai.com) and [ElevenLabs](https://beta.elevenlabs.io). It taught my friends and me just how important a good plan is with the challenges brought by the small time frame. I can't wait to tackle the next game jam or passion project I do next. 
+Overall, this was a fun and exciting project to do. I got to have fun with my friends while creating an interesting portfolio piece. The story and voice acting being done entirely by AI show the power of AI technology from [OpenAI](https://openai.com) and [ElevenLabs](https://beta.elevenlabs.io). It taught my friends and me just how important a good plan is with the challenges brought by the small time frame. I am eagerly anticipating my next game jam or passion project, eager to tackle the challenges and see what I can create.
 
 ---
