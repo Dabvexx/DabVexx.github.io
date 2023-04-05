@@ -11,8 +11,6 @@ tags:
 ---
 
 # Project Info
-
-## If you would like some more information on the project:
 - <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
 - <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
 
