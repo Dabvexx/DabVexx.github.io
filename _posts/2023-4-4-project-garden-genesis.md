@@ -2,7 +2,7 @@
 title: "Project: \nGarden Genesis: The Art Of Cultivation"
 layout: post
 post-image: ../assets/images/GardenGenesisTitle.png
-description: "In this post, I will be showing off a project that a few of my friends and I did for Global Game Jam '23, Garden Genesis: The Art of Cultivation."
+description: "Check out Garden Genesis: The Art of Cultivation, a plant breeding sim created by a team of developers and artists for Global Game Jam '23. Play the game in your browser and explore the repository on GitHub. Learn about the project's concept, execution, and lessons learned in this blog post."
 tags:
 - project
 - gaming
