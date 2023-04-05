@@ -61,9 +61,9 @@ We had to go and plan multiple times through the process, completely filling 2 w
 
 ## Here are a few photos of this development process:
 <div align="center">
-    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title" width="500" height="350">
-    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1" width="500" height="350">
-    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2" width="500" height="350">
+    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title" width="600" height="425">
+    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1" width="600" height="425">
+    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2" width="600" height="425">
 </div>
 
 ---
