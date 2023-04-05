@@ -61,20 +61,21 @@ An interesting point about this game is the opening cutscene. The opening cutsce
 
 We had to go and plan multiple times through the process, completely filling 2 whiteboards at least eight times. 
 
-## Here are a few photos of this:
+## Here are a few photos of said whiteboard planning:
 <div align="center">
-    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title" width="45%">
-    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1" width="45%">
-    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2" width="45%">
+    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title" title="The first concept for the title, in all its whiteboard glory." width="45%">
+    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1" title="Whiteboard with some hastily written plans." width="45%">
+    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2" title="Whiteboard detailing the plan a mere 5 hours before the submission deadline." width="45%">
 </div>
 
-Needless to say, it was quite hectic and chaotic the whole time. Not much sleep was had those 2 days. :sleepy:
+
+Needless to say, it was quite hectic and chaotic the whole time. Not much sleep was had those 2 days.
 
 ---
 
 # Lessons Learned
 
-This project taught me about collaborating on a project with multiple team members. This was a quite hard to do since we had such a limited amount of time we didn't have the luxury of constructing a full plan that covers every edge case. And since not everyone on our team was a developer either, so we couldn't effectivly utilize techniques such as sprints or waterfalls. The end product is decent, however there certainly is some game mechanics and polish all of us wished we had time to include.
+This project taught me about collaborating on a project with multiple team members. This was a quite hard to do since we had such a limited amount of time we didn't have the luxury of constructing a full plan that covers every edge case. And since not everyone on our team was a developer either, so we couldn't effectivly utilize techniques such as sprints or waterfalls. The end product is decent, however there certainly is some game mechanics and general polish all of us wish we had time to include.
 
 ---
 
