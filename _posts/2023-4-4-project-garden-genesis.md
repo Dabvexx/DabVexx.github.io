@@ -28,11 +28,11 @@ tags:
 
 ### Screenshots:
 <div align="center">
-    <img src="../assets/images/GardenGenesisScreenShot1.png" alt="Screenshot1">
-    <img src="../assets/images/GardenGenesisScreenShot2.png" alt="Screenshot2">
-    <img src="../assets/images/GardenGenesisScreenShot3.png" alt="Screenshot3">
-    <img src="../assets/images/GardenGenesisScreenShot4.png" alt="Screenshot4">
-    <img src="../assets/images/GardenGenesisScreenShot5.png" alt="Screenshot5">
+    <img src="../assets/images/GardenGenesisScreenShot1.png" alt="Screenshot1" width = "33%">
+    <img src="../assets/images/GardenGenesisScreenShot2.png" alt="Screenshot2" width = "33%">
+    <img src="../assets/images/GardenGenesisScreenShot3.png" alt="Screenshot3" width = "33%">
+    <img src="../assets/images/GardenGenesisScreenShot4.png" alt="Screenshot4" width = "33%">
+    <img src="../assets/images/GardenGenesisScreenShot5.png" alt="Screenshot5" width = "33%">
 </div>
 
 ---
