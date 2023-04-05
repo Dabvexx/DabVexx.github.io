@@ -13,13 +13,17 @@ tags:
 # What is Garden Genesis: The Art of Cultivation?
 
 "Garden Genesis: The Art of Cultivation", or simply Garden Genesis as I shall refer to it for the rest of this blog, is the submission me and a few of my friends created for Global Game Jam '23. The theme for this game jam was "Roots", which could be interperated as many different things. A few projects I saw while playing a few of the game from the jam had the idea of family heritige, the creation of culture, and plants.
-<br>
-<br>
+
+---
+
+# Project Info
+
 ## If you would like some more information on the project:
 - <a href="https://github.com/Aleph-Null-Studios/Garden-Genesis-The-Art-of-Cultivation" target="_blank">Click Here</a> for a look at the repository.
 - <a href="https://dabvexx.itch.io/garden-genesis-the-art-of-cultivation" target="_blank">Click Here</a> to play the game in your browser.
 
 ## Credits:
+
 ### - Programmers:
 - Alex Woods (Me!)
 - Caleb Brazeau
@@ -59,9 +63,9 @@ We had to go and plan multiple times through the process, completely filling 2 w
 
 ## Here are a few photos of this development process:
 <div align="center">
-    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title">
-    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1">
-    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2">
+    <img src="../assets/images/GardenGenesisTitleWhiteboard.png" alt="Whiteboard Title" width="500" height="350">
+    <img src="../assets/images/GardenGenesisWhiteboard1.png" alt="Whiteboard 1" width="500" height="350">
+    <img src="../assets/images/GardenGenesisWhiteboard2.png" alt="Whiteboard 2" width="500" height="350">
 </div>
 
 ---
@@ -72,7 +76,7 @@ This project taught me about collaborating on a project with multiple team membe
 
 ---
 
-# Summery
+# Summary
 
 Overall, this was a fun and interesting project to do. 
 

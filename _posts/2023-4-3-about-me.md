@@ -9,11 +9,11 @@ tags:
 - gaming
 ---
 
-# Intrest in computing and programming
+# Intrest in Computing & Programming
 
 ---
 
-# Intrest in gaming
+# Intrest in Gaming
 
 ---
 
