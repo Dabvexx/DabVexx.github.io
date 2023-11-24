@@ -3,7 +3,12 @@
 #  image: ../assets/images/
 #  link: https://dabvexx.github.io/blog/title-without-date.md
 #  description: ""
-- name: "Project: Garden Genesis"
+- name: "Garden Genesis"
   image: ../assets/images/GardenGenesisTitle.png
   link: https://dabvexx.github.io/blog/project-garden-genesis
   description: "Check out Garden Genesis: The Art of Cultivation, a plant breeding sim created by a team of developers and artists for Global Game Jam '23."
+
+- name: "Bulletmancy: Become Back My Money Edition"
+  image: ../assets/images/
+  link: https://dabvexx.github.io/blog/title-without-date.md
+  description: "Submission for the GMTKJam '23"
