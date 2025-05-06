@@ -21,6 +21,8 @@ _site/
 /test/version_tmp/
 /tmp/
 
+/node_modules
+
 # Used by dotenv library to load environment variables.
 # .env
 
