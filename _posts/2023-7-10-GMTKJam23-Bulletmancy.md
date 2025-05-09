@@ -1,8 +1,8 @@
 ---
-title: About Me
+title: GMTK Game Jam 23 entry, Bulletmancy
 layout: post
 post-image: 
-description: In this post, I aim to provide a brief overview of myself, including my interests and activities both within and outside of work.
+description: In this post, I show off and discuss the development process of my teams GMTKJam23 Entry
 tags:
 - project
 - gaming

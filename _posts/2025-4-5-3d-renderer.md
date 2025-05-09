@@ -1,13 +1,13 @@
 ---
-title: Besser Rooms
+title: 3D Renderer
 layout: post
 post-image: ../assets/images/Besser.png
-description: In this post, I will be discuss my internship at Besser Rooms
+description: In this post, I discuss the development of my 3D renderer written in C++ and OpenGL
 tags:
 - work
 - programming
 ---
-
+test
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     const container = document.createElement('div');
@@ -23,3 +23,4 @@ tags:
     document.body.appendChild(button);
   });
 </script>
+test
