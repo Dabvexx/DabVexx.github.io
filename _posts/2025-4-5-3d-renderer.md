@@ -1,10 +1,10 @@
 ---
 title: 3D Renderer
 layout: post
-post-image: ../assets/images/Besser.png
+post-image: ../assets/images/renderer.png
 description: In this post, I discuss the development of my 3D renderer written in C++ and OpenGL
 tags:
-- work
+- project
 - programming
 ---
 test
