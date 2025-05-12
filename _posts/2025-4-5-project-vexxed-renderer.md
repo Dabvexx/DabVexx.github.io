@@ -2,7 +2,7 @@
 title: "Project: Vexxed Renderer"
 layout: post
 post-image: 
-description: In this blog post, I will be showing off a cusom 3D renderer written in C++ using OpenGL.
+description: In this blog post, I will be showing off a custom 3D renderer written in C++ using OpenGL.
 tags:
 - project
 - c++
