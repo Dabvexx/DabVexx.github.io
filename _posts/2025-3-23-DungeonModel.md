@@ -36,4 +36,4 @@ The main atmosphere of the scene is created with the purple lighting and the den
 
 # Torches
 
-The thing im most proud of in this scene are the torches, they are animated beautifully and look gorgeous. The way it was done was by.
+The thing im most proud of in this scene are the torches, they are animated beautifully and look gorgeous. The way it was done was by deforming a mesh, layering that mesh, and adding shaders to it.
