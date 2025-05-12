@@ -11,7 +11,7 @@ tags:
 ---
 
 WIP.
-This is a show of the process of my journey learning music recently
+This is a show of the process of my journey learning music recently using FL Studio and IK multimedia tools.
 
  <audio controls>
   <source src="../assets/audio/LofiTest.mp3" type="audio/mpeg">
