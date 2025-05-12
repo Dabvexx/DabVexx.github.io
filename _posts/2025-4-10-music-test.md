@@ -1,7 +1,7 @@
 ---
 title: "Lofi music testing"
 layout: post
-post-image: 
+post-image: ../assets/images/FLSS.png
 description: In this blog post, I will be showcasing my work on learning music production
 tags:
 - project
