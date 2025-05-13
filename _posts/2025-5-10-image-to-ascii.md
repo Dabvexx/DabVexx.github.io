@@ -1,5 +1,5 @@
 ---
-title: "Image to Ascii"
+title: "WIP Image to Ascii"
 layout: post
 post-image: 
 description: In this post, I will be discuss how I built an image to ascii converter

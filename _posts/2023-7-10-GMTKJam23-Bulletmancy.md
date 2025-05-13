@@ -1,5 +1,5 @@
 ---
-title: "GMTK game jam 2023: Bulletmancy"
+title: "WIP GMTK game jam 2023: Bulletmancy"
 layout: post
 post-image: 
 description: this post goes over mine and Grace Fowlers entry for the  GMTK Game Jam 2023, Bulletmancy

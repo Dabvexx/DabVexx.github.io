@@ -1,5 +1,5 @@
 ---
-title: "Project: Swimmy Fish"
+title: "WIP Project: Swimmy Fish"
 layout: post
 post-image: ../assets/images/SwimmyFishPreview.png
 description: In this blog post, I will be showing off my CITA 212 final, Swimmy Fishy.
