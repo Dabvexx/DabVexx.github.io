@@ -14,11 +14,11 @@ This project was only possible with <a href="https://www.youtube.com/playlist?li
 
 # Project overview
 
-This project is 3D renderer in C++ and OpenGL that renders a skybox and glTF model files through a custom importer. You can move the camera wherever you want to view the models from all angels, as well as shaders like vertex normals shaders.
+This project is 3D renderer in C++ and OpenGL that renders a skybox and glTF model files through a custom importer. You can move the camera wherever you want to view the models from all angels, as well as use included shaders like vertex normals shaders and outline / stencil shaders.
 
 ---
 
-# Reason for the project
+# Reason for choosing this project
 
 I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++ and OpenGL. I wanted to expand my programming skills as I spent most of my time working with C# and wanted to learn other C languages. This has also inspired me to try making a program in rust to see which one I like the feel of better.
 
