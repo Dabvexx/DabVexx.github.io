@@ -1,5 +1,6 @@
 ---
-
+layout: compress
+---
 [
   {% for post in site.posts %}
     {
