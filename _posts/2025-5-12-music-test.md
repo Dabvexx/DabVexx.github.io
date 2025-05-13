@@ -1,5 +1,5 @@
 ---
-title: "WIP Lofi music testing"
+title: "Lofi music testing"
 layout: post
 post-image: ../assets/images/FLSS.png
 description: In this blog post, I will be showcasing my work on learning music production
@@ -10,12 +10,20 @@ tags:
 - 3d
 ---
 
-WIP.
+(a bit wip, subject to change)
 This is a show of the process of my journey learning music recently using FL Studio and IK multimedia tools.
 
 ---
 
-I use FLEX for the bass and guitar section, and ik multimedias synthronic to make the synth parts, as well as use an ambiant track for the rain.
+# Overview
+
+This is the result of me learning how to make music via production of a lofi song. I wanted to do lofi as it's a pretty easy genera to learn, and I've always loved the vibe of lofi
+
+This project wouldn't have been possible without a friend guiding me through the UI of FL Studio. They taught me alot of tricks, such as scale snapping, triads, and chords.
+
+I used many different pluggins to make the songs. I use FLEX for the bass and guitar section, a custom lofi drum kit, and ik multimedias synthronic to make the synth parts, as well as use an ambiant track for the rain.
+
+I also used pluggins such as reverb and equalizer to get that echoy and lofi feel.
 
 ---
 
@@ -27,7 +35,7 @@ Despite this, i think the song sounds good for the short bit that it is currentl
 
 ---
 
-# Examples
+# Song evolution
 
  <audio controls>
   <source src="../assets/audio/LofiTest.mp3" type="audio/mpeg">
@@ -44,7 +52,6 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio> 
 
-THIS WHOLE POST IS VERY SUBJECT TO CHANGE!!!!
-WIP!!!
+Each of these songs differ as I learned new techniques and ways to adjest the sounds to get the vide I want.
 
 ---
