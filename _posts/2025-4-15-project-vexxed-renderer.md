@@ -28,6 +28,10 @@ I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++
 
 I learned quite a lot during this process. The main things I learned was C++ and graphics programming. Graphics programming has always been an interest of mine, and writing all the code to render something from scratch has been really interestin, and given me alot of insight for how graphics programming works, suck as the graphics rendering pipeline with rasterization and frame buffers. C++ was also really cool to learn, and should be a quite useful skill to add to my belt as it is a very powerful language.
 
+I found making my own glTF parser very fun and interesting, as I could for the most part reverse engineer how the file was laid out. I have been really interested in reverse engineering, but have always found it very intimidating to use gihidra or read bytes in a hex editor for hours, so this was like an interesting way to dip my toes in the proverbial water.
+
+The way the camera moves is also very interesting once you wrap your head around why. You would intuitivly thing the camera moves around the world, but really the camera stays still as the world moves around the camera. This is much easier way as warping a mesh is much easier than warping a view point.
+
 ---
 
 # Examples in action
@@ -41,6 +45,8 @@ I learned quite a lot during this process. The main things I learned was C++ and
     Your browser does not support the video tag.
     </video> 
 </div>
+
+Seeing this work was one of the coolest moments to me, and really made me see the magic in it. The first video is funny for the texture, but it is the first 3d mesh that i got to render during the process of making the renderer, and was the moment i knew i had to see it through. The second video is the first mesh that was imported via glTF, and rendered with a skybox.
 
 ---
 
