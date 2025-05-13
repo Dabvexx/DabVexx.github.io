@@ -45,4 +45,4 @@ I have also been working on my own home network, using various tools and service
 
 # Posts & Projects
 
- On this site you will find projects I've done, as well as general posts ranging from small experiments, to updates on my home lab.
+ On this site you will find projects I've done, as well as general posts ranging from small experiments, to updates on my home lab. Thanks for reading, and I hope you enjoy.
