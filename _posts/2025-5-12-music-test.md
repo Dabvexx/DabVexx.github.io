@@ -31,6 +31,8 @@ I also used pluggins such as reverb and equalizer to get that echoy and lofi fee
 
 Ive been trying to learn how to make a melody for this, but its really hard to get the right vibe, pacing, and sound, but i am very proud of the base line.
 
+I chose to get the humble bundle bundle that is $25 dollars for 2000 dollars of IK multimedia products, which was a great choice as it is very high quality sounds, samples, and synths.
+
 Despite this, i think the song sounds good for the short bit that it is currently.
 
 ---
