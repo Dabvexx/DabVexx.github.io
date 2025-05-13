@@ -24,6 +24,12 @@ I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++
 
 ---
 
+# Things I learned
+
+I learned quite a lot during this process. The main things I learned was C++ and graphics programming. Graphics programming has always been an interest of mine, and writing all the code to render something from scratch has been really interestin, and given me alot of insight for how graphics programming works, suck as the graphics rendering pipeline with rasterization and frame buffers. C++ was also really cool to learn, and should be a quite useful skill to add to my belt as it is a very powerful language.
+
+---
+
 # Examples in action
 <div align="center">
     <video width="640" height="480" controls>
