@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: post
-post-image: ../assets/images/author1
+post-image: ../assets/images/author1.png
 description: If my bio wasnt enough, read this to learn more about me!
 tags:
 - informative
@@ -35,9 +35,10 @@ I am currently working on my degree from SUNY Morrisville that will finish in 20
 
 I am proficient in C# and Unity. I have dipped my toes in other C languages (see [this post]() to read about my C++ OpenGL renderer!) C# is what really taught me to program beyond simple toy programs. 
 
-I also like experimenting with blender to learn how better to use it. check [this post](_posts\2024-9-9-DungeonModel.md) for a scene of a dungeon, and [this post]() to see my first ever rigged model!
+I also like experimenting with blender to learn how better to use it. check [this post](/DungeonModel) for a scene of a dungeon, and [this post]() to see my first ever rigged model!
 
 ---
 
 # Posts & Projects
- On this site you will find projects ive done, as well as general posts ranging from small experiments, to updates on my home lab.
+
+ On this site you will find projects I've done, as well as general posts ranging from small experiments, to updates on my home lab.
