@@ -20,7 +20,7 @@ The lookup table uses a very common set of characters ($@B%8&WM#*oahkbdpqwmZO0QL
 Below is a gigantic image i made to show off the ascii conversion (I ran it through an ascii to image as it would be very choppy with the standard paragraph breaks) (also this took forever due to the massive size of the image at 10k by 18k)
 
 <div align="center">
-    <img src="..\assets\images\AsciiStatue.png" alt="Proxmox Screenshot" width = "100%">
+    <img src="..\assets\images\AsciiStatue.jpg" alt="Giant ascii image" width = "100%">
 </div>
 
 THIS WHOLE POST IS VERY SUBJECT TO CHANGE!!!!
