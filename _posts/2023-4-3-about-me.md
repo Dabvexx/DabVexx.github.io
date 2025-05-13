@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: post
-post-image: 
+post-image: ../assets/images/author1
 description: If my bio wasnt enough, read this to learn more about me!
 tags:
 - informative
