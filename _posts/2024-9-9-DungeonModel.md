@@ -1,7 +1,7 @@
 ---
 title: Dungeon 3D Scene
 layout: post
-post-image: ..\assets\images\DungeonRend1.png
+post-image: ../assets/images/DungeonRend1.png
 description: 
 tags:
 - project
