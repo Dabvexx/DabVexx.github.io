@@ -1,7 +1,7 @@
 ---
 title: "Project: Vexxed Renderer"
 layout: post
-post-image: 
+post-image: ../assets/images/3DVexxPlane.png
 description: In this blog post, I will be showing off a custom 3D renderer written in C++ using OpenGL.
 tags:
 - project
@@ -20,7 +20,7 @@ This project is 3D renderer in C++ and OpenGL that renders a skybox and glTF mod
 
 # Reason for the project
 
-I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++ and OpenGL. I wanted to expand my programming skills as I spent most of my time working with C# and wanted to learn other C languages. This has also inspired me to try making a program in rust to see which one i like the feel of better.
+I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++ and OpenGL. I wanted to expand my programming skills as I spent most of my time working with C# and wanted to learn other C languages. This has also inspired me to try making a program in rust to see which one I like the feel of better.
 
 ---
 
@@ -52,7 +52,7 @@ I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++
 
 These issues have been a real pain to fix, and very persistant. I know that these issues are due to the GLTF importer I made but im unsure what part exactly is going wrong
 
-On the left is a 3D model i made for a different project that renders incorrectly as its transform is deformed and the textures are all the same.
+On the left is a 3D model I made for a different project that renders incorrectly as its transform is deformed and the textures are all the same.
 
 On the right is a chess set with a million verts, this shows the engine is fairly powerful, but textures and objects are misplaced in the world.
 
