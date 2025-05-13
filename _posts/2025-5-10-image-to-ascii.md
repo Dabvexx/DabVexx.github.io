@@ -21,9 +21,13 @@ The lookup table uses a very common set of characters alot of image to ascii pro
 
 Below is a gigantic image I made to show off the ascii conversion (I ran it through an ascii to image as it would be very choppy with the standard paragraph breaks) (also this took forever due to the massive size of the image at 10k by 18k)
 
+---
+
 <div align="center">
     <img src="..\assets\images\AsciiStatue.jpg" alt="Giant ascii image" width = "100%">
 </div>
+
+---
 
 You may need to open this in a new tab to see the ascii due to the massive scale of the image.
 
