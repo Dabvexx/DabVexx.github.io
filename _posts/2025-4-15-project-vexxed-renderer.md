@@ -1,7 +1,7 @@
 ---
 title: "Project: Vexxed Renderer"
 layout: post
-post-image: ..\assets\images\3DVexxPlane.png
+post-image: ../assets/images/3DVexxPlane.png
 description: In this blog post, I will be showing off a custom 3D renderer written in C++ using OpenGL.
 tags:
 - project
