@@ -1,7 +1,7 @@
 ---
 title: "Project: Vexxed Renderer"
 layout: post
-post-image: ../assets/images/3DVexxPlane.png
+post-image: ..\assets\images\3DVexxPlane.png
 description: In this blog post, I will be showing off a custom 3D renderer written in C++ using OpenGL.
 tags:
 - project
@@ -26,11 +26,11 @@ I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++
 
 # Examples in action
 <div align="center">
-    <video width="720" height="480" controls>
+    <video width="640" height="480" controls>
     <source src="../assets/videos/2023-09-30 21-20-26.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video> 
-    <video width="720" height="480" controls>
+    <video width="640" height="480" controls>
     <source src="../assets/videos/2025-02-23 20-10-25.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video> 
@@ -40,11 +40,11 @@ I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++
 
 # Funny issues along the way
 <div align="center">
-    <video width="720" height="480" controls>
+    <video width="640" height="480" controls>
     <source src="../assets/videos/2025-02-23 20-14-26.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video> 
-    <video width="720" height="480" controls>
+    <video width="640" height="480" controls>
     <source src="../assets/videos/WHATHAPPENED.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video> 
