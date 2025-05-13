@@ -20,7 +20,8 @@ My main responsibility was to create a scene they could use in their products, o
 
 The project that I came up with was a train scene that goes through many land scapes. I chose this as I believe train rides are fairly relaxing, to look out the window and hear the engine and clacking of the wheels. This project was made in unreal engine 5 which is a tool that I had not used in the past so it was an entire new experience for me and I got alot of help from the team on how to use the engine and best practices. The scene pictured here is one of my personal favorites, its a scene of mountain peaks above the clouds, which I think is very pretty, I do have a couple other images here to show too.
 
-The first image here is a beachside scene with a cabin and fishing boats out on the water.  Second is mountains while above the clouds. Third we have a cottage out in the middle of the cold wilderness. And last we have a mountain range with a river cutting through it, going over a bridge. There are a few more scenes but I didnt want to have 3 slides of images. Not pictured because space on the slide is a train station that each loop would start and end at. Making these scenes took most of my time at this internship.
+The first image here is a beachside scene with a cabin and fishing boats out on the water. Second is mountains while above the clouds. Third we have a cottage out in the middle of the cold wilderness. And last we have a mountain range with a river cutting through it, going over a bridge. There are a few more scenes but I didnt want clog the whole page up with images. Not pictured is a train station that each loop would start and end at. Making these scenes took most of my time at this internship.
+
 <div align="center">
     <img src="..\assets\images/trainGroup.png" alt="Proxmox Screenshot" width = "100%">
 </div>

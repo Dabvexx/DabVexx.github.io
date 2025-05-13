@@ -22,6 +22,8 @@ This project is 3D renderer in C++ and OpenGL that renders a skybox and glTF mod
 
 I was inspired by Victor Gordon to make my own 3D renderer as a way to learn C++ and OpenGL. I wanted to expand my programming skills as I spent most of my time working with C# and wanted to learn other C languages. This has also inspired me to try making a program in rust to see which one I like the feel of better.
 
+I was also really motivated to learn graphics programming after watching videos by Acerola that go over intermediate graphics programming concepts, and thought it was very interested (check out his sum of sins video for a really interesting water shader.)
+
 ---
 
 # Things I learned

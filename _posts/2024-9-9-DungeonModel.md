@@ -23,8 +23,10 @@ During a 3D modeling class last semester, we were tasked with making a simple du
 
 # The Beast
 
-I wanted to tell a story with the renders with this scene. A dungeon deep beneth the earth, ramins of crates and torches imply an old storage room, but mysteriously 
-The beast in the door is simply 2 spheres which emit red light.
+I wanted to tell a story with the renders with this scene. A dungeon deep beneth the earth, remains of crates and torches imply an old storage room, but mysteriously abandoned, and whatever reason why it was abandoned, it knows you are here too.
+
+Despite that,
+The beast in the door funnily enough is simply 2 spheres which emit red light, no body or beast at all. maybe it was always an illusion, or a trick of the eye...
 
 ---
 
