@@ -27,3 +27,8 @@ Your browser does not support the audio element.
   <source src="../assets/audio/LofiTest3.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio> 
+
+THIS WHOLE POST IS VERY SUBJECT TO CHANGE!!!!
+WIP!!!
+
+---
