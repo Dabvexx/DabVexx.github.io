@@ -1,5 +1,5 @@
 ---
-title: "WIP Graduating college"
+title: "(WIP) Graduating college"
 layout: post
 post-image: ..\assets\images\morrisville.png
 description: A short update blog about a huge event in my life.

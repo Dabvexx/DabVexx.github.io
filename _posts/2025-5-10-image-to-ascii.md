@@ -1,5 +1,5 @@
 ---
-title: "WIP Image to Ascii"
+title: "(WIP) Image to Ascii"
 layout: post
 post-image: 
 description: In this post, I will be discuss how I built an image to ascii converter
@@ -40,10 +40,5 @@ Once i have a couple hundred bucks laying around, I think this would be an image
 I would like to add several parameters that can be changed, such as contrast thresholds, inverting the color scale, increasing resolution, etc.
 It would also be very interesting to still color the image the original pixel color, just with no brightness maybe as to keep the ascii brightness feel.
 I would also like this to accept gifs and video, so you could maybe even stream in camera data and have it convert to ascii in real time (though this may be better as its own APK app).
-
----
-
-THIS WHOLE POST IS VERY SUBJECT TO CHANGE!!!!
-WIP!!!
 
 ---

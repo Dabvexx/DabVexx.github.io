@@ -1,5 +1,5 @@
 ---
-title: "WIP GMTK game jam 2023: Bulletmancy"
+title: "(WIP) GMTK game jam 2023: Bulletmancy"
 layout: post
 post-image: 
 description: this post goes over mine and Grace Fowlers entry for the  GMTK Game Jam 2023, Bulletmancy
@@ -9,7 +9,7 @@ tags:
 - cita
 ---
 
-WIP!!! This is my entry for the GMTK Jam 2023, being finished now
+This is my entry for the GMTK Jam 2023, being finished now
 GMTK is a very popular youtube channel that stands for game makers tool kit. He makes videos breaking down game design of many games, sometimes even getting developer interviews. Once a year he hosts a game jam with a unique theme.
 The theme for this game jam was roles reversed, so we thought instead of using weapons to defeat enemies, you shoot yourself to defeat enemies, as well as move.
 
